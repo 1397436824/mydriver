@@ -1,1 +1,3 @@
-/home/oyk/mydriver/hello/Hello.ko
+/home/oyk/mydriver/irq/work_queue.ko
+/home/oyk/mydriver/irq/tasklet.ko
+/home/oyk/mydriver/irq/threaded_irq.ko
