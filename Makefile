@@ -1,6 +1,6 @@
-obj-m += globalmem.o
+obj-m := Hello.o
 
-KDIR := /usr/src/linux-headers-$(shell uname -r)/
+KDIR := /usr/src/linux-headers-5.3.0-46-generic/
 
 PWD := $(shell pwd)
 
