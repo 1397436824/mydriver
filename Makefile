@@ -1,11 +1,11 @@
-obj-m += work_queue.o tasklet.o threaded_irq.o
+obj-m := param.o
 
-KDIR := /usr/src/linux-headers-$(shell uname -r)/
+KDIR := /usr/src/linux-headers-5.3.0-28-generic/
 
 PWD := $(shell pwd)
 
-all:
-	$(MAKE) -C $(KDIR) M=$(PWD) modules 
+all:  
+	$(MAKE) -C $(KDIR) M=$(PWD) modules  
         
 clean:  
 	rm *.mod.c *.o *.ko  modules.* Module.* *.mod

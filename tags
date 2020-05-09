@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+KDIR	Makefile	3;"	m
+PWD	Makefile	5;"	m
+__this_module	param.mod.c	11;"	v	typeref:struct:module
+__used	param.mod.c	26;"	v	file:
+book_name	param.c	7;"	v	file:
+book_num	param.c	10;"	v	file:
+obj-m	Makefile	1;"	m
+para_exit	param.c	22;"	f	file:
+para_exit	param.c	30;"	v
+para_init	param.c	14;"	f	file:
+para_init	param.c	29;"	v
