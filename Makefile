@@ -1,4 +1,4 @@
-obj-m += export.o expense.o
+obj-m += globalmem.o
 
 KDIR := /usr/src/linux-headers-$(shell uname -r)/
 
