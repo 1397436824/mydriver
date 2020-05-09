@@ -1,1 +1,2 @@
-/home/oyk/mydriver/param/param.ko
+/home/oyk/mydriver/timer/timer_list.ko
+/home/oyk/mydriver/timer/hrtimer.ko

@@ -1,6 +1,6 @@
-obj-m := param.o
+obj-m += timer_list.o hrtimer.o
 
-KDIR := /usr/src/linux-headers-5.3.0-28-generic/
+KDIR := /usr/src/linux-headers-$(shell uname -r)/
 
 PWD := $(shell pwd)
 
