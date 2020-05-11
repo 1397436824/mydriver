@@ -1,0 +1,1 @@
+cmd_/home/oyk/mydriver/hrtimer.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/oyk/mydriver/hrtimer.ko /home/oyk/mydriver/hrtimer.o /home/oyk/mydriver/hrtimer.mod.o ;  true

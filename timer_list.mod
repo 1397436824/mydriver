@@ -1,2 +1,2 @@
-/home/oyk/mydriver/timer/timer_list.o
+/home/oyk/mydriver/timer_list.o
 

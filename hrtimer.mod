@@ -1,2 +1,2 @@
-/home/oyk/mydriver/timer/hrtimer.o
+/home/oyk/mydriver/hrtimer.o
 

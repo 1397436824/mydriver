@@ -1,2 +1,3 @@
-/home/oyk/mydriver/timer/timer_list.ko
-/home/oyk/mydriver/timer/hrtimer.ko
+/home/oyk/mydriver/timer_list.ko
+/home/oyk/mydriver/hrtimer.ko
+/home/oyk/mydriver/delayed_work.ko
